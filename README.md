@@ -28,7 +28,7 @@ function safe_minus(number1, number2) {
 ##### Calculate by safe_minus function
 ```javascript
 
-0.2 - 0.00057
+safe_minus(0.2 , 0.00057) 
 # returns '0.19943'
 ```
 
